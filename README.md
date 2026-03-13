@@ -1,4 +1,4 @@
-# jamfbypass
+# Jamf/Apple Classroom Bypass
 
 ## Note this is not Stable! Sometimes apple kills the Actions app, make sure it runs everytime!
 
