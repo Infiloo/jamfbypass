@@ -1,6 +1,8 @@
 # jamfbypass
 
 
+## Note this is not Stable! Sometimes apple kills the Actions app, make sure it runs everytime!
+
 First Install Actions from App Store: https://apps.apple.com/de/app/actions/id1586435171?l=en-GB
 
 Then just install this Shortcut: https://www.icloud.com/shortcuts/763464975cba44fcbbb5fa9d1d1e6c06
